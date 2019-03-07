@@ -1,5 +1,5 @@
 <P># Kullanımı.THT YE ÖZELDİR.</P>
-Wget https://github.com/geccsaa/depo/blob/master/ByGeccsaa.pl
-chmod 755 ByGeccsaa.pl
-perl ByGeccsaa.pl ip adresi
+<P>Wget https://github.com/geccsaa/depo/blob/master/ByGeccsaa.pl</P>
+<P>chmod 755 ByGeccsaa.pl</P>
+<P>perl ByGeccsaa.pl ip adresi</P>
 
